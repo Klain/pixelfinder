@@ -6,7 +6,7 @@ PIXEL FINDER
 Instalacion
 
   Clona el repositorio desde GitHub
-    git clone https://github.com/tuusuario/turepositorio.git
+    git clone https://github.com/Klain/pixelfinder.git
     
   o desde NPM:
     npm install pixelfinder
